@@ -40,5 +40,5 @@ This project demonstrates a **real-time data streaming pipeline** using Apache A
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Nikk241/airflow-kafka-project.git
+git clone https://github.com/nikhil2412000/airflow-kafka-project.git
 cd airflow-kafka-project
